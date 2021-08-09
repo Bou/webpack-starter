@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es6",
+    "lib": ["DOM", "DOM.Iterable", "ES2017"],
+    "esModuleInterop": true,
+    "outDir": "./dist",
+    "strict": true,
+    "noImplicitAny": true,
+    "typeRoots": ["node_modules/@types"]
+  }
+}
